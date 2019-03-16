@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Activity Starter</string>
+    <string name="splash_activity">Splash Activity</string>
+    <string name="login_activity">Login Activity</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="enter_new_username">Enter new username</string>
+    <string name="favorite">Favorite</string>
+    <string name="unfavorite">Unfavorite</string>
+    <string name="save_username">Save username</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter password</string>
+    <string name="settings_activity">Settings Activity</string>
+    <string name="no_changes">No changes</string>
+</resources>
